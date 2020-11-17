@@ -1,1 +1,2 @@
 Hello everyone!
+Git is so fun!
